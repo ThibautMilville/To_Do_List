@@ -28,3 +28,20 @@ h1 {
     align-items: center;
     justify-content: space-between;
 }
+input {
+    width: 90%;
+    padding: 10px 5px;
+    height: 39px;
+    border: 1px solid #b3b2b2;
+    outline: 0;
+    border-radius: 6px 0 0 6px;
+}
+button {
+    width: 10%;
+    font-size: 20px;
+    height: 39px;
+    border: 0;
+    background-color: #4285f4;
+    color: #fff;
+    border-radius: 0 6px 6px 0;
+}
